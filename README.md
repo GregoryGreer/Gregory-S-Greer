@@ -1,4 +1,4 @@
-# GregorySGreer
+# Gregory S Greer
 Who is Gregory S Greer
 
 

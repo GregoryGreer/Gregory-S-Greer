@@ -17,4 +17,4 @@ Motion Control for Thermwood Corporation
 MySQL, SQL Server, Access database programming.
 
 
-DLL that performs OCR
+OCR experiance

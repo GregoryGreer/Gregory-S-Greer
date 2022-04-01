@@ -2,7 +2,7 @@
 Who is Gregory S Greer
 
 
-I am a Seattle Area Software engineer.  I have worked in 32 bit and 64 bit environments in Windows and Linux.  Most of my professional projects have been in C++.
+A Seattle Area Software engineer that has worked in Windows and Linux.  Most of my professional projects have been in C++.
 
 
 # Software Engineer
@@ -17,4 +17,4 @@ Motion Control for Thermwood Corporation
 MySQL, SQL Server, Access database programming.
 
 
-DLL that performs OCR.
+DLL that performs OCR

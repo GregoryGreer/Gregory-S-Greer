@@ -5,9 +5,6 @@ Who is Gregory S Greer
 A Seattle Area Software engineer with extensive experiance in C++ in both Windows and Linux.
 
 
-# Software Engineer
-
-
 Motion Control for Thermwood Corporation
 
 

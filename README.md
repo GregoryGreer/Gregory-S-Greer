@@ -2,7 +2,7 @@
 Who is Gregory S Greer
 
 
-A Seattle Area Software engineer that has worked in Windows and Linux.  Most of my professional projects have been in C++.
+A Seattle Area Software engineer with experiance in Windows and Linux with extensive experiance in C++.
 
 
 # Software Engineer

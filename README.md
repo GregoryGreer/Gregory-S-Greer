@@ -2,7 +2,7 @@
 Who is Gregory S Greer
 
 
-A Seattle Area Software engineer with experiance in Windows and Linux with extensive experiance in C++.
+A Seattle Area Software engineer with extensive experiance in C++ in both Windows and Linux.
 
 
 # Software Engineer

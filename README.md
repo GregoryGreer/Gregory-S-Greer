@@ -18,3 +18,6 @@ Past projects have included:
 
 
 * OCR experiance
+
+
+B.A. in Mathematics
